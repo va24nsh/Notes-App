@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NOTES</string>
+    <string name="enter_notes_here">Write Here…</string>
+    <string name="add_to_notes">Add to notes</string>
+    <string name="toolbar_title">Toolbar Title</string>
+    <string name="creator_remark">From\nVansh</string>
+</resources>
